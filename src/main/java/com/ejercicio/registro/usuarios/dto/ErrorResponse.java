@@ -10,5 +10,5 @@ import java.io.Serializable;
 @Getter
 @Setter
 public class ErrorResponse implements Serializable {
-    private String message;
+    private String mensaje;
 }
